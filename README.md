@@ -1,3 +1,3 @@
-# Hey Y'all!
+# O Hey
 
-I moving my personal projects and files into my GitLab! Posting link when migration is finished!
+Online backup for certain projects and configs. I will done eventually.
